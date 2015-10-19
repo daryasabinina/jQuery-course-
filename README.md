@@ -16,7 +16,7 @@
   - Basic: `:first`, `:last`, `:even`, `:odd`, etc.
   - Content: `:contains`, `:empty`, etc.
   - Visibility
-  - Childs
+  - Children
   - Forms: `:input`, `:text`, `:radio`, `:checkbox`, `:enables`, `:checked`, etc.
 5. Attributes
   - In case as getter/setter:
@@ -27,7 +27,7 @@
     * `.val()`
     * etc.
 6. Traversing
-  - Search: `.closest()`, `.find()`, `.next()` etc.
+  - Search: `.closest()`, `.find()`, `.next()`, etc.
   - Filtering: `.eq()`, `filter()`, etc.
 7. Arrays: 
   - `.each()`
@@ -57,7 +57,7 @@
   - Basic: `.show()`, `.hide()`
   - Slide
   - Fade
-  - `.animate()`
+  - Custom effects
 12. Operations
   - Arrays and Objects: `jQuery.each()`, `jQuery.unique()`, etc.
   - Stings: `jQuery.trim()`, etc.
