@@ -37,6 +37,10 @@
     * Inside: `.append()`, `.prepend()`
     * Outside: `.after()`, `.before()`
 
+#### Tasks
+[Tabs](https://github.com/daryasabinina/jQuery-course-/tree/master/tabs)
+[Calc](https://github.com/daryasabinina/jQuery-course-/blob/master/calc.html)
+
 ### Part II
 8. DOM manipulations
   - Wraping: `.wrap()`, etc.
@@ -63,3 +67,7 @@
   - Stings: `jQuery.trim()`, etc.
   - Check: `jQuery.isFunction()`
 13. this VS $(this)
+
+#### Tasks
+[Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)
+[Graph](https://github.com/daryasabinina/jQuery-course-/tree/master/graph)
