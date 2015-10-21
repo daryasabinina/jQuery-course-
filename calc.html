@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home Work 6</title>
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<style>
+    body {
+        font: 16px Arial;
+        background-color: #d9d9d9;
+    }
+    table {
+        margin: 100px auto;
+        border-radius: 4px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2), 0 2px 3px rgba(0,0,0,0.4);
+    }
+    td, th {
+        padding: 10px;
+    }
+    th:first-child {
+        border-top-left-radius: 4px;
+    }
+    th:last-child {
+        border-top-right-radius: 4px;
+    }
+    tfoot td:first-child {
+        border-bottom-left-radius: 4px;
+    }
+    tfoot td:last-child {
+        border-bottom-right-radius: 4px;
+    }
+    td {
+        text-align: center;
+    }
+    th {
+        text-transform: uppercase;
+    }
+    .header {
+        background-color: rgb(251, 99, 98);
+        color: white;
+    }
+    .footer {
+        background-color: rgb(64, 74, 88);
+        color: white;
+    }
+    .odd {
+        background-color: white;
+        color: rgb(153, 153, 153)
+    }
+    .even {
+        background-color: rgb(244, 244, 244);
+        color: rgb(153, 153, 153);
+    }
+</style>
+</head>
+<body>
+  	<table id="myTable" cellspacing="0">
+	<thead>
+	<tr class="header">
+		<th>ID</th>
+		<th>Title</th>
+		<th>Quantity</th>
+		<th>Price</th>
+		<th>Summ</th>
+		<th>Discount, %</th>
+		<th>Total</th>
+	</tr>
+	</thead>
+	<tbody>
+	  <tr class="odd">
+		<td>1</td>
+		<td>Bread</td>
+		<td>1</td>
+		<td>10</td>
+		<td>10</td>
+		<td>1</td>
+		<td>9.99</td>
+	</tr>
+	<tr class="even">
+		<td>2</td>
+		<td>Butter</td>
+		<td>2</td>
+		<td>7</td>
+		<td>14</td>
+		<td>2</td>
+		<td>13.72</td>
+	</tr>
+	</tbody>
+	<tfoot>
+	  <tr class="footer">
+		<td></td>
+		<td></td>
+		<td>3</td>
+		<td></td>
+		<td>24</td>
+		<td></td>
+		<td>23.71</td>
+	</tr>
+	</tfoot>
+	</table>
+	
+	 
+
+<script>
+$(document).ready(function(){
+	// Ru: Задание 5. В таблице #myTable раскрасить строки чередуя цвета, строку с названиями колонок и итоговую строку раскрасить в другие цвета.
+	//	При клике .on("click", f() {...}) на колонках Quantity, Price, Discount должны появляться поля ввода с содержимым ячеек
+	//	При потере фокуса on("blur", f(){...}) на этих же колонках должно происходить замена старого значения на новое.
+	//	Проводить пересчет для колонок с суммами и итоговую строку.
+	
+	/* Ru: Задание 1. Продолжение задания из предыдущего модуля (Таблица)
+	   Добавить следующие возможности:
+	   1. Добавлять строки в таблицу с автоматическим пересчетом итоговой строки
+	   2. Удалять строки из таблицы с автоматическим пересчетом итоговой строки. Удаление реализовать через выделение строк и нажатие на одну кнопку.
+	*/
+	/* En: Task 1. Continued job from the previous module (Table) 
+		Add the following features: 
+		1. Add rows to a table with automatic recalculation of the resulting string 
+		2. Delete rows from a table with automatic recalculation of the resulting string. Implement removing through the selection of rows and pressing a single button.
+	*/ 	
+			
+
+});	
+</script>
+
+</body>
+</html>
