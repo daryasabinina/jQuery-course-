@@ -38,7 +38,7 @@
     * Outside: `.after()`, `.before()`
 
 #### Tasks
-[Tabs](https://github.com/daryasabinina/jQuery-course-/tree/master/tabs)
+[Tabs](https://github.com/daryasabinina/jQuery-course-/tree/master/tabs)<br>
 [Calc](https://github.com/daryasabinina/jQuery-course-/blob/master/calc.html)
 
 ### Part II
@@ -69,5 +69,5 @@
 13. this VS $(this)
 
 #### Tasks
-[Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)
+[Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)<br>
 [Graph](https://github.com/daryasabinina/jQuery-course-/tree/master/graph)
