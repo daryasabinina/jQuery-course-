@@ -38,8 +38,8 @@
     * Outside: `.after()`, `.before()`
 
 #### Tasks
-[Tabs](https://github.com/daryasabinina/jQuery-course-/tree/master/tabs)<br>
-[Calc](https://github.com/daryasabinina/jQuery-course-/blob/master/calc.html)
+1. [Tabs](https://github.com/daryasabinina/jQuery-course-/tree/master/tabs)<br>
+2. [Calc](https://github.com/daryasabinina/jQuery-course-/blob/master/calc.html)
 
 ### Part II
 8. DOM manipulations
@@ -69,5 +69,5 @@
 13. this VS $(this)
 
 #### Tasks
-[Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)<br>
-[Graph](https://github.com/daryasabinina/jQuery-course-/tree/master/graph)
+1. [Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)<br>
+2. [Graph](https://github.com/daryasabinina/jQuery-course-/tree/master/graph)
