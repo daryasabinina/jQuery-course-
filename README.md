@@ -72,5 +72,6 @@
 1. [Calendar](https://github.com/daryasabinina/jQuery-course-/tree/master/calendar)<br>
 2. [Graph](https://github.com/daryasabinina/jQuery-course-/tree/master/graph)
 
+<hr>
 ### Final Task
 [Playground](https://github.com/daryasabinina/jQuery-course-/tree/master/playground)
